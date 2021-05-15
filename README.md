@@ -30,6 +30,13 @@ Worked on TypeScript(Loops,functions,accessSpecifiers, etc..)
 By using angular created Employee-management in VSCode
 Uploaded in Git
 
+Day.5
+Learnt about DataBinding,directives
+Watched Videos on Oneway and TwoWay databinding
+created some examples on Directives and DataBinding
+Uploaded in Git
+
+
 
 
 

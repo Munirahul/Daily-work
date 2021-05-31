@@ -63,10 +63,11 @@ Day-12
 Completed udemy videos on microservices.
 
 Day-13
-Started watching udemy videos on splunk.
-
+Started watching udemy videos on splunk
+Almost completed our project by using Spring MVC.
 Day-14
-Working on our project (BloodBankAvailiability) using spring boot.
+Started preparing for KBA
+Started Working on our project (BloodBankAvailiability) using spring boot.
 
 
 

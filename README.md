@@ -51,6 +51,23 @@ Learnt about connecting spring boot to angular
 created some examples by connecting spring boot to angular
 Uploaded in Git.
 
+Day.10
+Done with angular Hands-on
+Started watching videos on microservices 
+Uploaded in Git.
+
+Day.11
+Watched udemy videos on microservices.
+
+Day-12
+Completed udemy videos on microservices.
+
+Day-13
+Started watching udemy videos on splunk.
+
+Day-14
+Working on our project (BloodBankAvailiability) using spring boot.
+
 
 
 

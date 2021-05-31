@@ -63,10 +63,19 @@ Day-12
 Completed udemy videos on microservices.
 
 Day-13
+learnt basics of Cloud
+Working on AWS(Amazon web services).
+
+Day-14
+Trainer explained about LoadBalanacer, 
+how to upload Springboot application on EC2, 
+how to upload springboot on Elastic BeanStalk.
+
+Day-15
 Started watching udemy videos on splunk
 Almost completed our project by using Spring MVC.
 
-Day-14
+Day-16
 Started preparing for KBA
 Started Working on our project (BloodBankAvailiability) using spring boot.
 
